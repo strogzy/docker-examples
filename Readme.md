@@ -19,3 +19,5 @@ docker-compose up
 
 
 PS. don't forget `docker-compose up --build` if you want to rebuild the images after changing some code.
+
+Inspired by: http://progressivecoder.com/docker-compose-nodejs-application-with-redis-integration/
